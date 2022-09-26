@@ -36,7 +36,6 @@
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/osama-saad-5068a2222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rock1223" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="gmail" height="30" width="40" /></a>
 <a href="https://www.facebook.com/osama.saad.7731/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 <br>
