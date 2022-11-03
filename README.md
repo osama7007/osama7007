@@ -9,13 +9,13 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I’m currently learning **Angular , React**
+- 🌱 I’m currently learning **React , Redux , Angular**
 
-- 🔭 I’m currently working on my **medical WebApp**
+- 🔭 I’m currently working on my **Medical WebApp**
 
 - 👯 I’m looking to collaborate on **front-end web Development**
 
-- 📫 How to reach me: **ossaad38@gmail.com**
+- 📫 How to reach me: **osamasaadelsaeed@gmail.com**
 
 - ⚡ What I like to do: **coding , learning new technologies , play football**
 
@@ -46,5 +46,4 @@
 
 -----
 
-[Avinash](https://github.com/osama7007)
-Last Edited on : 10 + 11 = 21
+(https://github.com/osama7007)
