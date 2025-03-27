@@ -9,10 +9,6 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I’m currently learning **NextJS 13**
-
-- 🔭 I’m currently working on my **ERP Project**
-
 - 👯 I’m looking to collaborate on **front-end web Development**
 
 - 📫 How to reach me: **osamasaadelsaeed@gmail.com**
